@@ -7,6 +7,8 @@
 # starter application
 add_executable(main main.cpp)
 
+add_executable(aufgabe_4 aufgabe_4.cpp)
+
 # our test program that uses doctest to run unit tests
 add_executable(tests tests.cpp)
 
